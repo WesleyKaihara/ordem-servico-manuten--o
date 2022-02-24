@@ -1,0 +1,23 @@
+.CheckList{
+  display: flex;
+  width: 80%;
+  margin: auto;
+  justify-content:center;
+  flex-direction: column;
+}
+
+.checkList_Item{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: .5em;
+  margin-top: 1.5em;
+  font-weight: bold;
+  z-index: 2;
+}
+
+.checkbox{
+  min-width: 25px;
+  min-height: 25px;
+  margin-right: 5px;
+}

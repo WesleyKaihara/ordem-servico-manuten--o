@@ -1,0 +1,43 @@
+.main_content{
+  margin-top: 3em;
+  text-align: center;
+}
+
+.main_title{
+  text-align: center;
+  margin-top: 1em;
+  font-size:1.5em;
+}
+
+.input_problems{
+  width: 80%;
+  margin-top: 1em;
+  padding: 1em;
+  border-radius: 8px;
+}
+
+.input_desc{
+  width: 80%;
+  padding: .5em;
+  margin: 1em;
+  border-radius: 8px;
+  border: 1px solid #555;
+}
+
+.checkList_Container{
+  background-color: #008BFF;
+  width: 80%;
+  margin: 1em auto;
+  padding: .5em 0 1em;
+  border-radius: 10px;
+}
+
+.save_Btn{
+  padding: 1em 8em;
+  border-radius: 8px;
+  border: none;
+  background-color: #008BFF;
+  color: #fff;
+  font-weight: bold;
+  margin: 3em;
+}

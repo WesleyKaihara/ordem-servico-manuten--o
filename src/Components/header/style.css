@@ -1,0 +1,33 @@
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2em;
+  background-color: #008BFF;
+}
+
+.header_title{
+  text-align: center;
+  color: #fff;
+}
+
+.custom-shape-divider-top-1645624828 {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  
+}
+
+.custom-shape-divider-top-1645624828 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 30px;
+}
+
+.custom-shape-divider-top-1645624828 .shape-fill {
+  fill: #008BFF;
+  
+}
